@@ -1,0 +1,24 @@
+{
+  "name": "curso-webpack",
+  "version": "1.0.0",
+  "description": "curso para aprender a manejar web pack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PepeCharly01/curso-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PepeCharly01/curso-webpack/issues"
+  },
+  "homepage": "https://github.com/PepeCharly01/curso-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
